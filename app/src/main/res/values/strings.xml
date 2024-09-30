@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Tokoh Terkenal</string>
+
+    <string name="heroes_name">Nama Tokoh</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Albert Einstein</item>
+        <item>Isaac Newton</item>
+        <item>Leonardo da Vinci</item>
+        <item>Marie Curie</item>
+        <item>Stephen Hawking</item>
+        <item>Pablo Picasso</item>
+        <item>Nelson Mandela</item>
+        <item>Jane Goodall</item>
+        <item>Charles Darwin</item>
+        <item>Freddie Mercury</item>
+        <item>Malala Yousafzai</item>
+        <item>Bill Gates</item>
+        <item>Rosalind Franklin</item>
+        <item>Martin Luther King Jr.</item>
+        <item>Walt Disney</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Albert Einstein adalah seorang fisikawan teoretis yang dikenal dengan teori relativitasnya dan dianggap sebagai salah satu ilmuwan terpenting sepanjang masa.</item>
+        <item>Isaac Newton adalah seorang matematikawan, fisikawan, astronom, dan penulis Inggris yang dikenal karena hukum gerak dan hukum gravitasi universal.</item>
+        <item>Leonardo da Vinci adalah seorang seniman, ilmuwan, dan penemu Italia, terkenal karena karya seni seperti Mona Lisa dan The Last Supper, serta penemuan dan penelitian ilmiah yang inovatif.</item>
+        <item>Marie Curie adalah seorang ilmuwan fisika dan kimia, terkenal karena penelitiannya tentang radioaktivitas, dan merupakan wanita pertama yang memenangkan Nobel.</item>
+        <item>Stephen Hawking adalah seorang fisikawan teoretis yang terkenal dengan teorinya tentang lubang hitam dan kosmologi.</item>
+        <item>Pablo Picasso adalah seorang pelukis dan pemahat Spanyol, dikenal sebagai salah satu seniman terpenting abad ke-20 dan salah satu pendiri aliran seni kubisme.</item>
+        <item>Nelson Mandela adalah seorang aktivis anti-apartheid dan presiden pertama kulit hitam Afrika Selatan, dikenal karena perjuangannya melawan ketidakadilan sosial.</item>
+        <item>Jane Goodall adalah seorang primatologis dan ahli biologi Inggris, terkenal karena penelitiannya tentang perilaku simpanse di alam liar.</item>
+        <item>Charles Darwin adalah seorang ilmuwan yang mengembangkan teori evolusi melalui seleksi alam dan dikenal dengan bukunya, "On the Origin of Species."</item>
+        <item>Freddie Mercury adalah penyanyi, penulis lagu, dan produser musik Inggris yang dikenal sebagai vokalis utama band rock Queen.</item>
+        <item>Malala Yousafzai adalah seorang aktivis pendidikan Pakistan dan penerima Nobel Perdamaian, terkenal karena perjuangannya untuk hak pendidikan anak perempuan.</item>
+        <item>Bill Gates adalah seorang pengusaha dan filantropis asal Amerika Serikat, dikenal sebagai pendiri Microsoft dan salah satu orang terkaya di dunia.</item>
+        <item>Rosalind Franklin adalah seorang ilmuwan Inggris yang berkontribusi besar dalam penemuan struktur DNA melalui teknik kristalografi sinar-X.</item>
+        <item>Martin Luther King Jr. adalah seorang pemimpin gerakan hak sipil di Amerika Serikat yang dikenal karena perjuangannya melawan diskriminasi rasial melalui metode non-kekerasan.</item>
+        <item>Walt Disney adalah seorang produser film dan pengusaha yang dikenal sebagai pendiri Walt Disney Company dan pencipta karakter kartun ikonik seperti Mickey Mouse.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/albert_einstein</item>
+        <item>@drawable/isaac_newton</item>
+        <item>@drawable/leonardo_da_vinci</item>
+        <item>@drawable/marie_curie</item>
+        <item>@drawable/stephen_hawking</item>
+        <item>@drawable/pablo_picasso</item>
+        <item>@drawable/nelson_mandela</item>
+        <item>@drawable/jane_goodall</item>
+        <item>@drawable/charles_darwin</item>
+        <item>@drawable/freddie_mercury</item>
+        <item>@drawable/malala_yousafzai</item>
+        <item>@drawable/bill_gates</item>
+        <item>@drawable/rosalind_franklin</item>
+        <item>@drawable/martin_luther_king</item>
+        <item>@drawable/walt_disney</item>
+    </integer-array>
+    <string-array name="data_description2">
+        <item>Albert Einstein, seorang fisikawan teoritis yang lahir di Jerman pada tahun 1879, dikenal luas karena pengembangan teori relativitas yang revolusioner, yang mengubah cara kita memahami ruang dan waktu. Selain rumus terkenal E=mc², Einstein juga membuat kontribusi signifikan dalam mekanika kuantum dan statistik. Ia menjadi aktivis sosial yang vokal, mengadvokasi hak asasi manusia dan perdamaian global, terutama setelah terjadinya Perang Dunia II. Melalui karyanya yang menginspirasi, Einstein tidak hanya menjadi simbol kecerdasan ilmiah, tetapi juga pendorong bagi perubahan sosial.</item>
+
+        <item>Isaac Newton, lahir di Inggris pada tahun 1643, adalah seorang matematikawan, fisikawan, dan astronom yang dianggap sebagai salah satu ilmuwan terbesar sepanjang masa. Karyanya yang monumental, "Philosophiæ Naturalis Principia Mathematica," memperkenalkan hukum gerak dan gravitasi universal yang menjadi dasar bagi fisika klasik. Selain itu, Newton mengembangkan kalkulus secara independen, membuka jalan bagi berbagai kemajuan dalam matematika dan fisika. Keinginannya untuk memahami alam semesta mendorongnya untuk melakukan eksperimen dalam optika, di mana ia menemukan bahwa cahaya putih terdiri dari spektrum warna yang berbeda.</item>
+
+        <item>Leonardo da Vinci, lahir di Italia pada tahun 1452, adalah seorang seniman, ilmuwan, dan penemu yang dikenal sebagai jenius renaisans. Karya-karyanya, termasuk "Mona Lisa" dan "The Last Supper," bukan hanya mencerminkan keahlian artistiknya tetapi juga pemahamannya yang mendalam tentang anatomi manusia, perspektif, dan cahaya. Da Vinci tidak hanya melukis, tetapi juga membuat sketsa dan rancangan untuk berbagai penemuan, seperti mesin terbang dan alat perang. Dedikasinya untuk belajar dari alam dan mengamati fenomena menjadikannya pelopor dalam banyak bidang, termasuk arsitektur, biologi, dan teknik.</item>
+
+        <item>Marie Curie, lahir di Polandia pada tahun 1867, adalah seorang ilmuwan luar biasa yang membuat terobosan dalam studi radioaktivitas, menjadi wanita pertama yang memenangkan Nobel dan satu-satunya yang memenangkan Nobel di dua bidang berbeda: Fisika dan Kimia. Penelitian pionernya mengenai unsur radioaktif, termasuk penemuan polonium dan radium, tidak hanya memberikan wawasan baru dalam bidang fisika, tetapi juga mendasari kemajuan dalam pengobatan kanker melalui terapi radiasi. Meskipun menghadapi tantangan besar sebagai wanita dalam sains, Curie tetap berkomitmen untuk pendidikan dan penelitian, menginspirasi generasi ilmuwan perempuan di seluruh dunia.</item>
+
+        <item>Stephen Hawking, lahir pada tahun 1942 di Inggris, adalah seorang fisikawan teoritis dan kosmolog yang mengubah cara kita memahami alam semesta. Dengan diagnosa penyakit ALS yang parah pada usia muda, Hawking terus bekerja di bidang fisika meskipun keterbatasan fisiknya. Teorinya tentang radiasi Hawking, yang menunjukkan bahwa lubang hitam dapat memancarkan radiasi dan menguap seiring waktu, mengubah pemahaman kita tentang fisika luar angkasa. Hawking juga dikenal luas melalui buku-bukunya yang menjelaskan konsep-konsep kompleks kepada publik, seperti "A Brief History of Time," di mana ia mengajak pembaca untuk merenungkan asal-usul dan takdir alam semesta.</item>
+
+        <item>Pablo Picasso, lahir di Spanyol pada tahun 1881, adalah salah satu seniman paling berpengaruh di abad ke-20, dikenal sebagai salah satu pendiri aliran kubisme. Karya-karyanya mencerminkan berbagai gaya dan periode, dari fase biru yang melankolis hingga periode mawar yang lebih ceria. Karya ikoniknya, "Guernica," adalah respons terhadap perang dan kekerasan yang menggugah kesadaran sosial. Selain melukis, Picasso juga aktif dalam patung, keramik, dan desain kostum, menjadikannya inovator di banyak bidang seni. Pengaruhnya terus terasa dalam dunia seni, membentuk cara seniman menganggap bentuk dan realitas.</item>
+
+        <item>Nelson Mandela, lahir di Afrika Selatan pada tahun 1918, adalah seorang aktivis anti-apartheid yang menjadi presiden pertama kulit hitam di negara tersebut setelah bertahun-tahun terpenjara karena perjuangannya melawan penindasan. Setelah dibebaskan dari penjara, Mandela memimpin proses rekonsiliasi yang menakjubkan di Afrika Selatan, mendorong perdamaian dan kesatuan di tengah masyarakat yang terpecah oleh rasisme. Karyanya tidak hanya menginspirasi rakyat Afrika Selatan tetapi juga menjadi simbol harapan bagi orang-orang yang berjuang melawan ketidakadilan di seluruh dunia. Ia menerima Hadiah Nobel Perdamaian pada tahun 1993 atas usahanya dalam mengakhiri apartheid.</item>
+
+        <item>Jane Goodall, lahir di Inggris pada tahun 1934, adalah primatologis yang terkenal karena penelitian mendalamnya tentang perilaku simpanse liar di Taman Nasional Gombe Stream, Tanzania. Penelitiannya selama lebih dari enam dekade mengubah pandangan kita tentang primata dan memberikan wawasan tentang hubungan sosial, komunikasi, dan alat yang digunakan oleh simpanse. Selain sebagai ilmuwan, Goodall adalah advokat terkemuka untuk konservasi lingkungan dan perlindungan satwa liar, menginspirasi banyak orang untuk terlibat dalam pelestarian lingkungan dan hak-hak hewan melalui yayasannya, Jane Goodall Institute.</item>
+
+        <item>Charles Darwin, lahir di Inggris pada tahun 1809, adalah seorang ilmuwan yang terkenal karena teorinya tentang evolusi melalui seleksi alam, yang diuraikan dalam bukunya "On the Origin of Species." Penelitiannya selama perjalanan di HMS Beagle memberinya wawasan yang mendalam tentang keragaman kehidupan dan mekanisme adaptasi. Teorinya mengubah cara kita memahami biologi dan mempengaruhi banyak disiplin ilmu. Darwinnya juga berperan dalam perdebatan tentang asal-usul spesies, mendorong kemajuan dalam ilmu pengetahuan dan menjadikannya salah satu pemikir paling berpengaruh dalam sejarah sains.</item>
+
+        <item>Freddie Mercury, lahir di Zanzibar pada tahun 1946, adalah penyanyi, penulis lagu, dan produser musik yang dikenal sebagai vokalis utama band rock legendaris Queen. Dengan vokal yang kuat dan gaya panggung yang flamboyan, Mercury menjadi ikon dalam dunia musik rock. Lagu-lagunya, seperti "Bohemian Rhapsody," "We Will Rock You," dan "Somebody to Love," tidak hanya mencapai kesuksesan komersial tetapi juga menggugah emosi dan menyuarakan tema kebebasan dan cinta. Kehidupan pribadinya dan perjuangannya melawan AIDS juga menjadikannya simbol bagi komunitas LGBTQ+ dan kesadaran tentang penyakit tersebut.</item>
+
+        <item>Malala Yousafzai, lahir di Pakistan pada tahun 1997, adalah seorang aktivis pendidikan yang terkenal karena perjuangannya untuk hak pendidikan anak perempuan. Setelah diserang oleh Taliban pada usia 15 tahun, Malala tidak mundur dalam advokasinya dan menjadi suara global untuk pendidikan. Pada tahun 2014, ia menjadi penerima Hadiah Nobel Perdamaian termuda dalam sejarah. Melalui yayasannya, Malala Fund, ia terus berjuang untuk memberikan pendidikan kepada anak perempuan di seluruh dunia, menginspirasi generasi muda untuk menuntut hak-hak mereka.</item>
+
+        <item>Bill Gates, lahir di Seattle pada tahun 1955, adalah seorang pengusaha dan filantropis yang dikenal sebagai pendiri Microsoft, yang mengubah cara kita menggunakan komputer dan perangkat lunak. Setelah mencapai kesuksesan yang luar biasa, Gates berfokus pada filantropi melalui Bill dan Melinda Gates Foundation, yang mendukung berbagai inisiatif global dalam kesehatan, pendidikan, dan pengentasan kemiskinan. Ia terus menjadi suara terkemuka dalam advokasi untuk inovasi teknologi dan solusi berkelanjutan untuk tantangan global, termasuk perubahan iklim dan akses terhadap vaksin.</item>
+
+        <item>Rosalind Franklin, lahir di Inggris pada tahun 1920, adalah seorang ilmuwan yang berkontribusi signifikan pada penemuan struktur DNA melalui teknik kristalografi sinar-X. Meskipun sering kali diabaikan dalam pengakuan resmi, karyanya memberikan dasar penting bagi pemahaman kita tentang genetika dan struktur molekuler. Franklin juga melakukan penelitian penting dalam bidang virus dan karbon, yang berkontribusi pada kemajuan ilmu pengetahuan. Setelah kematiannya, warisannya terus hidup sebagai simbol dari pentingnya kontribusi wanita dalam sains.</item>
+
+        <item>Martin Luther King Jr., lahir pada tahun 1929 di Atlanta, Georgia, adalah seorang pendeta dan aktivis hak sipil yang menjadi pemimpin utama dalam perjuangan melawan diskriminasi rasial di Amerika Serikat. Ia dikenal karena pidato ikoniknya, "I Have a Dream," yang mencerminkan visi akan kesetaraan dan keadilan bagi semua orang. Melalui metode non-kekerasan, King mengorganisir protes, demonstrasi, dan kampanye yang mengubah lanskap sosial di Amerika. Kematian tragisnya pada tahun 1968 tidak mengurangi dampaknya; ia tetap menjadi simbol perjuangan untuk hak asasi manusia dan inspirasi bagi banyak gerakan di seluruh dunia.</item>
+
+        <item>Walt Disney, lahir di Chicago pada tahun 1901, adalah seorang pelukis, produser, dan pengusaha yang menciptakan salah satu perusahaan hiburan terbesar di dunia. Melalui inovasi di bidang animasi, Disney memperkenalkan karakter-karakter ikonik seperti Mickey Mouse dan menciptakan film-film animasi klasik yang menjadi bagian dari budaya pop global. Selain itu, Disney merintis taman hiburan yang mengubah cara orang menikmati hiburan keluarga. Dedikasinya untuk menciptakan pengalaman baru dan keajaiban bagi anak-anak dan keluarga menjadikannya tokoh penting dalam sejarah hiburan.</item>
+    </string-array>
+</resources>

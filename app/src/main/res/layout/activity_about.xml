@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="16dp"
+        android:paddingTop="24dp">
+
+        <ImageView
+            android:id="@+id/profile_image"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/dion_prayoga"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:id="@+id/name_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dion Prayoga"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:id="@+id/email_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="donpr2003@gmail.com"
+            android:textSize="16sp"/>
+
+        <Button
+            android:id="@+id/btn_instagram"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Instagram"
+            android:layout_marginTop="16dp"/>
+
+        <Button
+            android:id="@+id/btn_linkedin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LinkedIn"
+            android:layout_marginTop="8dp"/>
+
+        <Button
+            android:id="@+id/btn_github"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GitHub"
+            android:layout_marginTop="8dp"/>
+
+    </LinearLayout>
+
+</ScrollView>
